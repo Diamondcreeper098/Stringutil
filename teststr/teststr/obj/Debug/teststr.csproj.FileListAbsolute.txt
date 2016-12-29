@@ -1,0 +1,5 @@
+c:\users\asus\documents\visual studio 2015\Projects\teststr\teststr\bin\Debug\teststr.exe
+c:\users\asus\documents\visual studio 2015\Projects\teststr\teststr\bin\Debug\teststr.pdb
+c:\users\asus\documents\visual studio 2015\Projects\teststr\teststr\obj\Debug\teststr.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\teststr\teststr\obj\Debug\teststr.exe
+c:\users\asus\documents\visual studio 2015\Projects\teststr\teststr\obj\Debug\teststr.pdb
